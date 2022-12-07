@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.js" -delete 0x02-shell_permissions
+find . -type f -name "*.js" -delete
